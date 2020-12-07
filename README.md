@@ -17,3 +17,4 @@ Pueden hacer lo que quieran...
 
 * Christopher Montero : **Administrador**
 * Jael D'oleo : **Contribuidor**
+* Elian Montero : **Diseñador**
