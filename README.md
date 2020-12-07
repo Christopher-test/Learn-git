@@ -11,4 +11,9 @@ Pueden hacer lo que quieran...
 
 * perro
   * vaca
-**gato
+
+
+## Miembros del proyecto
+
+* Christopher Montero : **Administrador**
+* Jael D'oleo : **Contribuidor**
